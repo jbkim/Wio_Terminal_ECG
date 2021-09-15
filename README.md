@@ -1,1 +1,1 @@
-# Wio_Terminal_ECG
+# Wio Terminal ECG Plot
