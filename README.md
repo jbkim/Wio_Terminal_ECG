@@ -4,10 +4,3 @@
 - ECG 데이터는 그래픽 테스트를 위해서 캡쳐한 데이터를 배열에 넣어서 사용
 
 ![image](/wio_terminal_ecg.jpg)
-
-- [x] button
-    - long key
-    - short key press
-
-- [ ] battery power check
-    - low power detect & led display
